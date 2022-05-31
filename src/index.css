@@ -40,3 +40,8 @@ code {
 .navbar a:hover {
   color: whitesmoke;
 }
+
+.navbar img {
+  height: 50px;
+  margin: 10px;
+}
